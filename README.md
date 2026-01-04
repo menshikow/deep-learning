@@ -128,11 +128,3 @@
 * **2020s | Bitter Lesson (Sutton)** — *Richard Sutton*  
   Emphasizes general-purpose learning systems over human-engineered heuristics.  
   📄 [PDF](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
-
----
-
-## 🚀 **Usage Tip for Repo**
-
-- Copy this Markdown into `README.md` or `timeline.md`.  
-- Each entry can be **linked to your own implementation** if you recreate it from scratch.  
-- Optionally, add **tags** like `#vision`, `#RL`, `#LLM`, `#meta-learning`, `#generative`.
