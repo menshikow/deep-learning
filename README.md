@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-1. [Chronological Timeline](https://www.google.com/search?q=%23i-chronological-timeline)
-2. [Priority Order](https://www.google.com/search?q=%23ii-priority-order)
+1. [Chronological Timeline]()
+2. [Priority Order]()
 
 ## **I. Foundations (1943–1997)**
 
